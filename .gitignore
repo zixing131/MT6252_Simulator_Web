@@ -1,0 +1,8 @@
+bin/Rom/fat312.img
+bin/Rom/08000000.bin
+/bin
+/Lib
+*.img
+*.bin
+/wasm/dist
+/wasm/dist2

@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "mrporting.h": "c",
+        "fixr9.h": "c",
+        "encode.h": "c",
+        "printf.h": "c",
+        "mem.h": "c",
+        "type.h": "c",
+        "string.h": "c",
+        "main.h": "c",
+        "dsm.h": "c",
+        "types.h": "c",
+        "algorithm": "c",
+        "xutility": "c",
+        "sdl.h": "c",
+        "stdbool.h": "c",
+        "unicorn.h": "c",
+        "stdlib.h": "c"
+    }
+}

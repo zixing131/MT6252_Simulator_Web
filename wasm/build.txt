@@ -1,0 +1,1 @@
+"E:\study\github\emsdk\emsdk_env.bat" 

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "sdl.h": "c",
+        "unicorn.h": "c",
+        "config.h": "c",
+        "defined.h": "c",
+        "typedef.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
